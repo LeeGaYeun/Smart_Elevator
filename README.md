@@ -15,7 +15,7 @@
 - [간트차트](https://www.notion.so/b30813db096c4118962241aaeaa532e9?pvs=21)
 - [칸반보드](https://www.notion.so/cdf8a76bd70f43c8afe5fb01547a1afa?pvs=21)
 
-## 시스템 다이어그램
+## 다이어그램
 
 ![시퀀스 다이어그램](https://github.com/LeeGaYeun/Smart_Elevator/assets/149138767/6d268147-d11b-4afe-90c8-d9419692859a)
 
